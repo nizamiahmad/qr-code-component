@@ -26,8 +26,8 @@ body {
     
 .container {
     background-color: var(--White);
-    min-width: 23.4375em;
-    max-width: 23.4375em;
+    min-width: 375px;
+    max-width: 375px;
     margin:  0 auto;
     padding: 1em;
     border-radius: 1em;
