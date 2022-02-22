@@ -35,6 +35,7 @@ body {
 
 .qr-code {
     width: 100%;
+    border-radius: 1em;
 }
 
 .content {
@@ -49,7 +50,6 @@ body {
     margin-bottom: 0;
     margin-top: 0;
     color: var(--Dark-blue);
-    font-size: 1.5rem;
 }
 
 .content > p {
